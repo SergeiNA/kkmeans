@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/SergeiNA/kkmeans.svg?branch=master)](https://travis-ci.org/SergeiNA/kkmeans)
+
 # kkmeans (OTUSLesson29)
 solution to otus c++ homework 15
 
